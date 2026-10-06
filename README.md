@@ -55,7 +55,7 @@ A. Mulai & Login:
 Begitu program dibuka, diminta masukkan username sama password. Dikasih kesempatan 3 kali mencoba. Kalau salah terus, pintu terkunci (program langsung keluar/berhenti).
 
 B. Pengecekan Tipe User (Peran):
-Setelah berhasil masuk, sistem bakal ngeliat siapa kamu:
+Setelah berhasil masuk, sistem bakal ngeliat siapa:
 1. Kalau Admin: dikasih akses penuh buat ngelola data (bisa ngeliat jadwal, nambah ekskul baru, ngedit data lama, atau ngehapus ekskul).
 2. Kalau Siswa: cuma bisa ngeliat tabel jadwal ekskul aja, tidak bisa ngubah apa-apa.
 
