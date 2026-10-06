@@ -66,5 +66,7 @@ C. Proses Pengerjaan (Pilihan Menu):
 4. Hapus Data: masukkan kode ekskul yang mau dihapus lalu sistem bakal tanya konfirmasi "yakin mau hapus?" sebelum beneran dihapus.
 
 D. Selesai
+
+
 Kalau udah seklesai, tinggal pilih menu Keluar, dan program selesai berjalan.
 
