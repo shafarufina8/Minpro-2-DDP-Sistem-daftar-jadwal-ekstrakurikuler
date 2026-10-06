@@ -49,10 +49,7 @@ saat memilih pilihan tidak bisa memasukkan huruf, hanya bisa angka.
 
 login dengan username/password yang salah akan diberi kesempatan 3 kali, jika sudah sampai batas program berhenti.
 
-
-
 <img width="1004" height="8084" alt="flowchart mipro 2 drawio" src="https://github.com/user-attachments/assets/222b2942-68f0-4a0d-b057-887225d3dd7a" />
-
 
 A. Mulai & Login:
 Begitu program dibuka, kamu diminta masukin *username* sama *password*. Kamu dikasih kesempatan **3 kali mencoba**. Kalau salah terus, pintu terkunci (program langsung keluar/berhenti).
