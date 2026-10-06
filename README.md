@@ -65,8 +65,7 @@ C. Proses Pengerjaan (Pilihan Menu):
 3. Ubah Data: pilih kode ekskul yang mau diganti. Data lamanya bakal kelihatan, dan tinggal ketik data barunya (kalau tidak mau diubah, tekan Enter saja).
 4. Hapus Data: masukkan kode ekskul yang mau dihapus lalu sistem bakal tanya konfirmasi "yakin mau hapus?" sebelum beneran dihapus.
 
-D. Selesai
-
+D. Selesai:
 
 Kalau udah seklesai, tinggal pilih menu Keluar, dan program selesai berjalan.
 
