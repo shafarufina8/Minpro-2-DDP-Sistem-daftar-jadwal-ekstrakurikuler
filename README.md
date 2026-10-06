@@ -61,7 +61,7 @@ Setelah berhasil masuk, sistem bakal ngeliat siapa:
 
 C. Proses Pengerjaan (Pilihan Menu):
 1. Lihat Jadwal: Menampilkan daftar ekskul rapi dalam bentuk tabel. Kalau data masih kosong, nanti ada pemberitahuan.
-2. Tambah Ekskul: diminta masukkan kode baru (tidak boleh sama seperti yang sudah ada). tinggal isi nama ekskul, hari, dan pembinanya.
+2. Tambah Ekskul: diminta masukkan kode baru (tidak boleh sama seperti yang sudah ada). isi nama ekskul, hari, dan pembinanya.
 3. Ubah Data: pilih kode ekskul yang mau diganti. Data lamanya bakal kelihatan, dan tinggal ketik data barunya (kalau tidak mau diubah, tekan Enter saja).
 4. Hapus Data: masukkan kode ekskul yang mau dihapus lalu sistem bakal tanya konfirmasi "yakin mau hapus?" sebelum beneran dihapus.
 
