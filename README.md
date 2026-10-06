@@ -52,7 +52,7 @@ login dengan username/password yang salah akan diberi kesempatan 3 kali, jika su
 <img width="1004" height="8084" alt="flowchart mipro 2 drawio" src="https://github.com/user-attachments/assets/222b2942-68f0-4a0d-b057-887225d3dd7a" />
 
 A. Mulai & Login:
-Begitu program dibuka, kamu diminta masukin *username* sama *password*. Kamu dikasih kesempatan **3 kali mencoba**. Kalau salah terus, pintu terkunci (program langsung keluar/berhenti).
+Begitu program dibuka, diminta masukkan username sama password. Dikasih kesempatan 3 kali mencoba. Kalau salah terus, pintu terkunci (program langsung keluar/berhenti).
 
 B. Pengecekan Tipe User (Peran):
 Setelah berhasil masuk, sistem bakal ngeliat siapa kamu:
